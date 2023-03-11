@@ -1,0 +1,7 @@
+RST     = GPIO5		d1
+SDA(SS) = GPIO4 	d2
+MOSI    = GPIO13	d7
+MISO    = GPIO12	d6
+SCK     = GPIO14	d5
+GND     = GND
+3.3V    = 3.3V
